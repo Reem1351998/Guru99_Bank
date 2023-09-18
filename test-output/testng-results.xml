@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-18T20:21:45 AST" name="Default suite" finished-at="2023-09-18T20:21:50 AST" duration-ms="5610">
+    <groups>
+    </groups>
+    <test started-at="2023-09-18T20:21:45 AST" name="Default test" finished-at="2023-09-18T20:21:50 AST" duration-ms="5610">
+      <class name="Gure99BankTestCases">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:Gure99BankTestCases@32639b12]" started-at="2023-09-18T20:21:45 AST" name="BeforeTest" finished-at="2023-09-18T20:21:48 AST" duration-ms="2873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="Login_inValid()[pri:1, instance:Gure99BankTestCases@32639b12]" started-at="2023-09-18T20:21:48 AST" name="Login_inValid" description="number 1" finished-at="2023-09-18T20:21:50 AST" duration-ms="2664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_inValid -->
+      </class> <!-- Gure99BankTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
